@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.334504
+# {'~>0.0.6', 'development'}
+watchurl=https://rubygems.org/gems/disposable/versions/(0\.0(\.[0-9]{1,2})?)
