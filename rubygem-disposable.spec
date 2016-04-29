@@ -4,7 +4,7 @@
 #
 Name     : rubygem-disposable
 Version  : 0.0.9
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/disposable-0.0.9.gem
 Source0  : https://rubygems.org/downloads/disposable-0.0.9.gem
 Summary  : No detailed summary available
